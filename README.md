@@ -2,4 +2,4 @@
 
 ## Install / Usage 
 
-Run the provided executable.
+The provided executable should give some advice on how to run this script. 
